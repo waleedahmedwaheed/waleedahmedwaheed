@@ -1,5 +1,5 @@
 # 💫 About Me:
-I provide Web Solutions to businesses.<br>A glance of my portfolio can be found at [gladiatorsverse.io](https://gladiatorsverse.io)<br>I have a great interest in AI development.
+I provide comprehensive Web3 and Blockchain Solutions to businesses, including smart contract development and roadmap creation. You can explore a glimpse of my portfolio at gladiatorsverse.io. In addition to blockchain, I have a deep interest in AI development, continuously exploring innovative intersections between AI and decentralized technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/waleed.ahmi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waleed.ahmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-waheed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/waleedahmiwahed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@waleedahmed662) 
