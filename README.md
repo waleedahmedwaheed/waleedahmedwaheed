@@ -3,9 +3,7 @@
 🚀 **Senior Full-Stack Engineer | Web3 & Blockchain Architect | AI Engineer**
 
 I build **scalable, production-grade software systems** across **Blockchain, Web3, AI, and Cloud-native architectures**.  
-My work focuses on **clean architecture, smart contracts, decentralized apps, automation, and open-source engineering**.
-
-🌐 Portfolio: https://gladiatorsverse.io  
+My work focuses on **clean architecture, smart contracts, decentralized apps, automation, and open-source engineering**. 
 
 ---
 
