@@ -1,89 +1,120 @@
-# 👋 Hi, I'm Waleed Ahmed
+# 👋 Hi, I'm Waleed Waheed
 
-🚀 **Senior Full-Stack Engineer | Web3 & Blockchain Architect | AI Enthusiast**
+🚀 **Senior Full-Stack Engineer | Web3 & Blockchain Architect | AI Engineer**
 
-I design and build **production-grade Web3, Blockchain, and AI-powered platforms**.  
-My work focuses on **scalable architecture, smart contracts, decentralized applications, and intelligent automation**.
+I build **scalable, production-grade software systems** across **Blockchain, Web3, AI, and Cloud-native architectures**.  
+My work focuses on **clean architecture, smart contracts, decentralized apps, automation, and open-source engineering**.
 
-🔗 Portfolio: https://gladiatorsverse.io  
+🌐 Portfolio: https://gladiatorsverse.io  
 
 ---
 
-## 🧠 About Me
+## 🧠 Professional Summary
 
-- 🔗 **Web3 & Blockchain Solutions** (Smart Contracts, dApps, DeFi, NFTs, Tokenomics)
-- 🤖 **AI Development** (LLM integrations, automation, intelligent workflows)
-- ⚙️ **Full-Stack Engineering** (Frontend + Backend + Cloud)
-- 🧪 Open-source contributor with a focus on reusable and maintainable code
-- 🏗️ Experience building **real-world products used in production**
+- 🔗 **Web3 & Blockchain Development** (Smart Contracts, DeFi, NFTs, Tokenomics)
+- 🤖 **AI & Automation Systems** (LLMs, agents, data pipelines)
+- ⚙️ **Full-Stack Engineering** (Frontend, Backend, Cloud, DevOps)
+- 🧪 Strong **open-source contributor** with long-term repo maintenance
+- 🏗️ Experience building **real-world, production systems**
 
-I enjoy working at the intersection of **AI × Blockchain × Scalable Systems**.
+I actively explore and build at the intersection of **AI × Blockchain × Scalable Systems**.
 
 ---
 
 ## 🌐 Connect With Me
 
-- Facebook: https://facebook.com/waleed.ahmi  
-- Instagram: https://instagram.com/waleed.ahmi  
-- LinkedIn: https://linkedin.com/in/waleed-waheed  
-- Twitter/X: https://twitter.com/waleedahmiwahed  
-- YouTube: https://youtube.com/@waleedahmed662  
+- Facebook → https://facebook.com/waleed.ahmi  
+- Instagram → https://instagram.com/waleed.ahmi  
+- LinkedIn → https://linkedin.com/in/waleed-waheed  
+- Twitter / X → https://twitter.com/waleedahmiwahed  
+- YouTube → https://youtube.com/@waleedahmed662  
 
 ---
 
-## 💻 Tech Stack
+## 💻 Complete Tech Stack
 
-### 🔹 Languages
-PHP · JavaScript · TypeScript · Python · Solidity
+### 🔹 Programming Languages
+PHP · JavaScript · TypeScript · Python · Solidity · Rust (basic) · Bash
 
-### 🔹 Frontend
-React · Next.js · Vue.js · Redux · Tailwind CSS · Bootstrap · SASS
+### 🔹 Frontend Engineering
+React · Next.js · Vue.js · Nuxt  
+Redux · Zustand · React Query  
+Tailwind CSS · Bootstrap · SASS · Styled Components  
+GSAP · Chart.js · D3.js  
 
-### 🔹 Backend
-Laravel · Express.js · Node.js · REST APIs · GraphQL · JWT
+### 🔹 Backend Engineering
+Node.js · Express.js · NestJS  
+Laravel · REST APIs · GraphQL  
+JWT · OAuth · WebSockets  
 
 ### 🔹 Blockchain & Web3
-Ethereum · EVM · Solana · Algorand · Smart Contracts · DeFi · NFTs · Wallet Integrations
+Ethereum · EVM Chains · BNB Chain  
+Solana · Algorand  
+Smart Contracts · DeFi · NFTs · Token Standards  
+WalletConnect · MetaMask · Phantom  
+On-chain indexing · Analytics · Subgraphs  
 
-### 🔹 Databases
-MySQL · MongoDB · PostgreSQL · DynamoDB · SQLite
+### 🔹 AI & Data
+OpenAI APIs · LLM Integrations  
+AI Agents · Prompt Engineering  
+Python Automation · Data Pipelines  
+Vector Databases · Embeddings  
+
+### 🔹 Databases & Storage
+MySQL · PostgreSQL · MongoDB  
+DynamoDB · SQLite  
+Redis · IPFS · Cloud Storage  
 
 ### 🔹 Cloud & DevOps
-AWS · Cloudflare · Firebase · Vercel · Netlify · CI/CD
+AWS (EC2, S3, Lambda, RDS)  
+Cloudflare · Firebase  
+Vercel · Netlify · Heroku  
+CI/CD · GitHub Actions · Docker  
 
-### 🔹 Tools
-Git · GitHub · Postman · Chart.js · Figma · Adobe Suite
+### 🔹 Testing & Quality
+Unit Testing · Integration Testing  
+Postman · Jest · Cypress  
+Code Reviews · Refactoring  
+
+### 🔹 Tools & Productivity
+Git · GitHub · GitHub Projects  
+Postman · Figma  
+Adobe Photoshop · Illustrator · After Effects  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity & Statistics
 
+### 🔥 Overall GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waleedahmedwaheed&theme=dark&include_all_commits=true&count_private=true)
 
+### ⚡ Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedahmedwaheed&theme=dark)
 
+### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedahmedwaheed&layout=compact&theme=dark)
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Open-Source Impact
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=waleedahmedwaheed&theme=radical&margin-w=4)
 
-- ✅ Consistent contributor
-- ✅ Multi-language development
-- ✅ Long-term project maintenance
-- ✅ Open-source collaboration
+**What this reflects:**
+- ✔️ Consistent long-term contributor
+- ✔️ Multi-language development
+- ✔️ Open-source collaboration
+- ✔️ Active maintenance of repositories
 
 ---
 
 ## 🚀 Top Contributed Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=waleedahmedwaheed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=waleedahmedwaheed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## ✍️ Developer Quote
+## ✍️ Random Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -95,14 +126,14 @@ Git · GitHub · Postman · Chart.js · Figma · Adobe Suite
 
 ---
 
-## 💰 Support My Work
+## 💰 Support My Open-Source Work
 
-If my projects help you, consider supporting my open-source work ☕
+If my repositories or contributions help you, consider supporting ☕
 
-[Buy Me a Coffee](https://buymeacoffee.com/waleedahmed)
+👉 https://buymeacoffee.com/waleedahmed  
 
 ---
 
-## 🔎 SEO Keywords
+## 🔎 SEO Keywords (for GitHub Search)
 
-**Web3 Developer, Blockchain Engineer, Smart Contract Developer, AI Engineer, Full Stack Developer, DeFi, NFT, dApp, Ethereum, Solana, Algorand, LLM, OpenAI, React, Node.js, Laravel, AWS**
+**Web3 Developer, Blockchain Engineer, Smart Contract Developer, AI Engineer, Full Stack Developer, Open Source Contributor, DeFi Developer, NFT Engineer, dApp Developer, Ethereum, Solana, Algorand, React, Node.js, Laravel, AWS, GitHub Developer**
