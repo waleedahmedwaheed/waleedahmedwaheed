@@ -21,11 +21,7 @@ I actively explore and build at the intersection of **AI × Blockchain × Scalab
 
 ## 🌐 Connect With Me
 
-- Facebook → https://facebook.com/waleed.ahmi  
-- Instagram → https://instagram.com/waleed.ahmi  
 - LinkedIn → https://linkedin.com/in/waleed-waheed  
-- Twitter / X → https://twitter.com/waleedahmiwahed  
-- YouTube → https://youtube.com/@waleedahmed662  
 
 ---
 
